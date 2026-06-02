@@ -1,3 +1,5 @@
+package PGO8;
+
 public record UserForm(String email, String password, int age) {
     public UserForm {
         if (email == null || email.isBlank()) {

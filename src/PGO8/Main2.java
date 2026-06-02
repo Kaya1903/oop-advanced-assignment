@@ -1,3 +1,5 @@
+package PGO8;
+
 public class Main2 {
     public static void main(String[] args) {
         ServiceOrder order = new ServiceOrder("Alpha Company", 10, 120.0);
