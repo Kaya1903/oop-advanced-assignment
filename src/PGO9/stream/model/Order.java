@@ -1,4 +1,4 @@
-package pl.edu.homework.stream.model;
+package PGO9.stream.model;
 
 import java.time.LocalDate;
 import java.util.List;

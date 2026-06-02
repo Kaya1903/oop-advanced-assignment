@@ -1,6 +1,6 @@
-package pl.edu.homework.stream.service;
+package PGO9.stream.service;
 
-import pl.edu.homework.stream.model.*;
+import PGO9.stream.model.*;
 
 import java.time.LocalDate;
 import java.util.*;
