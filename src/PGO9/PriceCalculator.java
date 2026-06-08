@@ -1,4 +1,4 @@
-package PGO8;
+package PGO9;
 
 public class PriceCalculator {
     public double calculate(ServiceOrder order, PriceStrategy strategy) {

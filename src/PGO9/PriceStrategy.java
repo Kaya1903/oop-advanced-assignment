@@ -1,4 +1,4 @@
-package PGO8;
+package PGO9;
 
 @FunctionalInterface
 public interface PriceStrategy {
