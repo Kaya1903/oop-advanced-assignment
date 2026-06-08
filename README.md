@@ -2,9 +2,7 @@
 
 Welcome to my assignment repository. You can find the source code and solutions organized by tasks below.
 
-## 📁 Quick Navigation
 
-## 📁 Quick Navigation
 
 ## 📁 Quick Navigation
 
