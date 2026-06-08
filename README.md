@@ -4,14 +4,33 @@ Welcome to my assignment repository. You can find the source code and solutions 
 
 ## 📁 Quick Navigation
 
-* **[PGO 9 - Stream API Tasks (Current)](src/PGO10/stream)**
+* **[PGO 11 - Media Lab Reservation System (Current)](src/PGO11/medialab)**
+    * [Interfaces & Policies](src/PGO11/medialab/interfaces)
+    * [Model & Core Classes](src/PGO11/medialab/model)
+    * [Business Services](src/PGO11/medialab/service)
+    * [Main Execution Application](src/PGO11/medialab/Main.java)
+* **[PGO 10 - Functional Programming & Stream API](src/PGO10/stream)**
     * [Model Classes](src/PGO10/stream/model)
     * [Stream Tasks Implementation](src/PGO10/stream/service/StreamApiTasks.java)
-* **[PGO 8 - Functional Interfaces & Anonymous Classes](src/)** *(Root source files)*
+* **[PGO 9 - Functional Interfaces & Lambda Expressions](src/PGO09)**
+* **[PGO 8 - Anonymous Classes & Basics](src/PGO08)**
 
 ---
 
-## 📝 PGO 9 Control Questions Answers
+## 📝 PGO 11 Control Questions Answers
+
+### 1. What is an abstract class, and how does it differ from a regular class?
+An abstract class is a class that cannot be instantiated directly using the `new` keyword. It serves as a blueprint or base template for other classes. Unlike a regular class, it can contain abstract methods (methods without a body) that its concrete subclasses must implement.
+
+### 2. Can an interface extend another interface?
+Yes, in Java, an interface can extend one or more other interfaces using the `extends` keyword. This allows for interface inheritance and building more complex behavioral contracts.
+
+### 3. What does the `implements` keyword mean in Java?
+The `implements` keyword is used when a class wants to adhere to the contract specified by an interface. By implementing an interface, the class promises to provide concrete implementations for all the abstract methods defined within that interface.
+
+---
+
+## 📝 PGO 10 Control Questions Answers
 
 ### 1. Why does average() return OptionalDouble, while sum() returns a plain double?
 If the stream is empty, the mathematical sum of zero elements is simply `0.0`. However, the average of an empty stream is mathematically undefined (division by zero). Therefore, `average()` returns an `OptionalDouble` to safely handle the absence of a value without crashing.
