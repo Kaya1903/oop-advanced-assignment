@@ -6,15 +6,17 @@ Welcome to my assignment repository. You can find the source code and solutions 
 
 ## 📁 Quick Navigation
 
+## 📁 Quick Navigation
+
 * **[PGO 11 - Media Lab Reservation System (Current)](src/PGO11/medialab)**
     * [Interfaces & Policies](src/PGO11/medialab/interfaces)
     * [Model & Core Classes](src/PGO11/medialab/model)
     * [Business Services](src/PGO11/medialab/service)
     * [Main Execution Application](src/PGO11/medialab/Main.java)
-* **[PGO 10 - Functional Programming & Stream API](src/PGO10.stream)**
-    * [Model Classes](src/PGO10.stream/model)
-    * [Stream Tasks Implementation](src/PGO10.stream/service/StreamApiTasks.java)
-* **[PGO 9 - Functional Interfaces & Lambda Expressions](src/PGO09)**
+* **[PGO 10 - Functional Programming & Stream API](src/PGO10/stream)**
+    * [Model Classes](src/PGO10/stream/model)
+    * [Stream Tasks Implementation](src/PGO10/stream/service/StreamApiTasks.java)
+* **[PGO 9 - Functional Interfaces & Lambda Expressions](src/PGO9)**
 
 
 ---
