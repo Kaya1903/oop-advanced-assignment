@@ -1,3 +1,3 @@
-package PGO9.stream.model;
+package PGO10.stream.model;
 
 public record Product(String name, String category, double price) {}

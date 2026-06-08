@@ -4,10 +4,10 @@ Welcome to my assignment repository. You can find the source code and solutions 
 
 ## 📁 Quick Navigation
 
-* **[PGO 9 - Stream API Tasks (Current)](src/PGO9/stream)**
-    * [Model Classes](src/PGO9/stream/model)
-    * [Stream Tasks Implementation](src/PGO9/stream/service/StreamApiTasks.java)
-* **[PGO 8 - Functional Interfaces & Anonymous Classes](src/PGO8)**
+* **[PGO 9 - Stream API Tasks (Current)](src/PGO10/stream)**
+    * [Model Classes](src/PGO10/stream/model)
+    * [Stream Tasks Implementation](src/PGO10/stream/service/StreamApiTasks.java)
+* **[PGO 8 - Functional Interfaces & Anonymous Classes](src/)** *(Root source files)*
 
 ---
 

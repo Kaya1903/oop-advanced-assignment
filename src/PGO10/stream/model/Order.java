@@ -1,4 +1,4 @@
-package PGO9.stream.model;
+package PGO10.stream.model;
 
 import java.time.LocalDate;
 import java.util.List;
