@@ -13,7 +13,7 @@ Welcome to my assignment repository. You can find the source code and solutions 
     * [Model Classes](src/PGO10/stream/model)
     * [Stream Tasks Implementation](src/PGO10/stream/service/StreamApiTasks.java)
 * **[PGO 9 - Functional Interfaces & Lambda Expressions](src/PGO09)**
-* **[PGO 8 - Anonymous Classes & Basics](src/PGO08)**
+
 
 ---
 
